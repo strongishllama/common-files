@@ -1,0 +1,6 @@
+# Text editors/IDEs.
+.vscode/
+.idea/
+
+# Files.
+*.env
