@@ -1,2 +1,2 @@
 # Common Files
-Common files to help create new projects.
+Common files for new projects.
